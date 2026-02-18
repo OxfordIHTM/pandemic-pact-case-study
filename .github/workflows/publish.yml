@@ -9,6 +9,8 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     container: rocker/tidyverse:4.5.2
+    permissions:
+      contents: write
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
