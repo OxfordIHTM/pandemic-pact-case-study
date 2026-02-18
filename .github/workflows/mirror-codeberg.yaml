@@ -14,6 +14,6 @@ jobs:
           fetch-depth: 0
       - uses: yesolutions/mirror-action@master
         with:
-          REMOTE: https://codeberg.org/data4decisionmakers/pandemic-pact-case-study
+          REMOTE: https://codeberg.org/d4dm/pandemic-pact-case-study
           GIT_USERNAME: ${{ secrets.CODEBERG_USERNAME }}
           GIT_PASSWORD: ${{ secrets.CODEBERG_TOKEN }}
