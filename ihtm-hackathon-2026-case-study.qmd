@@ -1,0 +1,92 @@
+---
+title: The Pandemic Pact and the Funding Cuts
+subtitle: A Case Study
+date: "2026-02-18"
+date-format: "DD MMMM YYYY"
+---
+
+## The case
+
+The [Pandemic PACT](https://www.pandemicpact.org/) monitors and analyses global funding and research evidence related to diseases with pandemic potential, as well as broader research preparedness efforts, and is equipped to pivot in response to outbreaks. It collects, curates, codes, and analyses data in alignment with WHO priority diseases and other selected illnesses, including pandemic influenza, mpox, and plague. Pandemic PACT aims to guide policy and decision-making for research funders, policymakers, researchers, multilateral agencies. The Pandemic PACT data is publicly available for download from its [website](https://www.pandemicpact.org/). 
+
+For an overview on the **Pandemic Pact** project, read [here](https://www.pandemicpact.org/about/overview){.external target="_blank"}.
+
+## The context
+
+You are a fellow of the [Oxford iHealth](https://oxford-ihtm.io) initiative after graduating with an [MSc in International Health and Tropical Medicine](https://www.tropicalmedicine.ox.ac.uk/study-with-us/msc-ihtm) from the prestigious [University of Oxford](https://www.ox.ac.uk). The fellowship focuses on the use of computational sciences for addressing global health challenges.
+
+## The challenge
+
+[Professor Proochista Ariana](https://proochista.org), director of the MSc in International Health and Tropical Medicine, has requested your batch of fellows to look into work done by [Grant Witness](https://grant-witness.us/), a project to track the termination of grants of scientific research agencies under the Trump administration in 2025[^1] and investigate how much of the reported grants in the Pandemic PACT project has been impacted by the cuts. Specifically, Professor Ariana has requested that your batch aims towards the following objectives:
+
+### Cross-cutting research objectives
+
+1. Design and develop an **extract, transform, and load (ETL)** data pipeline for both the Pandemic PACT and Grant Witness dataset along with other relevant dataset required to achieve the rest of the research objectives[^2];
+
+2. Perform **exploratory data analysis** of the the Pandemic PACT and the Grant Witness dataset through appropriate summary tables and data visualisations; and,
+
+3. Map the **spatial distribution** of the Pandemic PACT dataset and show the impact of the funding cuts to pandemic research globally.
+
+## The brief
+
+The fellows have been grouped into seven (7) teams:
+
+**Team Name** | **Team Avatar** | **Team Members**
+:--- | :---: | :---
+Team Malala |  | 
+Team Timnit |  | 
+Team Wangair |  | 
+Team Ressa |  | 
+Team Papakura |  | 
+Team Zohran |  |
+Team Maryam |  |
+
+### Initial hackathon day
+
+On the starting day of the hackathon (Session 8), each team will be assigned a set of tasks that contribute to addressing the study objectives stated above. These will be provided to each team in the form of GitHub issues in this [repository](https://github.com/OxfordIHTM/ihtm-hackathon-2026){.external target="_blank"}.
+
+The various GitHub issues will set tasks that contribute to addressing the study objectives as described above. Once assigned, the expectation is that the team will work through the problem-based learning (PBL) process and identify what they already know and what they don't know towards addressing the various tasks related to the study objectives. In general, these topics will include domain-specific knowledge regarding the problem and R-specific knowledge/skills needed to perform operations/calculations/analysis to produce answers to the questions. Each team then has the opportunity to ask relevant questions (including those that are related to the topic they don't know) to the hackathon facilitator and/or to fellow team mates and/or other teams and their members. This session will be a classroom session and questions are raised and answers provided for the whole set of teams to hear and learn from. The teams then take on these new knowledge and learning (or references provided by the facilitator or co-learners) and discuss it within their teams to start building solution/s to the problem-at-hand.
+
+The expected output per team after the initial hackathon day is to at least have a list of steps/tasks that the team plan/aim to do in order to solve/address the question it has been assigned. This list can be outlined as a response/comment to the original issue assigned to the team via GitHub. The list should include further lines of enquiry/study that the team would like to go through in support of the steps/tasks it aims to complete.
+
+### Working as a team and contributing individually
+
+Once the teams start working on R code of the steps/tasks they aim to undertake to address the study objectives, the expectation is that each team member will be given the chance to be lead analyst and write code on behalf of their team on their own branches created from the main branch of this repository/project consistent with the steps/tasks that the team has outlined to do. At each step, each individual member will write and run their own R code locally to verify that their code is running without errors (correct syntax) and that the code is producing the expected and needed output for the next step/task. Each individual team member can also decide to commit and push their code solution for a step/task as a way to have the automated checks built-in to the system verify code syntax. Once one or more team members have come up with code that works and have consulted this with other team members, the team can decide whether the majority/all of the members agree with the solutions offered and will choose which solution/approach they prefer. If there is consensus that a solution to a step/task has been found, then the team needs to decide which of the individual team members with the agreed solution will be tasked to make a pull request (after making a commit and push) to the hackathon facilitator for their review and approval. The hackathon facilitator will then review (taking into account the automated checks) and provide feedback accordingly. Feedback can be:
+
+1. An outright and full approval of the pull request if all code syntax and output checks out;
+
+2. An approval with minor comments that the team needs to take into account moving forward into their next steps; and,
+
+3. A request for changes to address some issues detected in the code syntax and/or in the code outputs in relation to the task/step being performed.
+
+For feedback type 1 and 2, the team member who issued the pull request will have the privilege to merge their pull request to the main branch.
+
+Every time a pull request is merged to the main branch, all participants from all teams will be asked to make a **pull with rebase** to update their branches with the code that has been accepted and merged to main. This ensures that everyone's branches are in sync with changes to the main branch which in turn can help with the next steps/tasks they are working on. This process will be facilitated by the hackathon facilitator.
+
+For feedback type 3, the individual who made the pull request is expected to address the comments and re-work their code accordingly while the other members of the team continue to work on their own code to see if they can provide a more appropriate answer. The team then again reviews the solutions from team members and decides which code to now use to make either a new pull request (if another team member's solution has been chosen) or continue with existing pull request if original team member who made the initial pull request has been able to offer a corrected solution that works.
+
+### Seeking help from other teams and/or from hackathon facilitator
+
+If the team finds themselves in a position where none of the team members are able to provide a credible solution to a step/task that they are working on, they have the option to request for help/support from either another team or from the hackathon facilitator. They can make this request via the original GitHub issue thread by making a comment and then tagging the team and/or the hackathon facilitator.
+
+In this process, the requested team is expected to engage with the request as best they can. If the requesting team provides code that they have written that is not working, the requested team should comment directly on the code provided and offer corrections or solutions. If no code is provided and instead only a question is asked, then the requested team should respond to the question in such a way that will lead the requesting team to the appropriate solution rather than just providing code. It should always be the requesting team that writes the final code solution and make the pull request and not the requested team.
+
+### Subsequent in-person hackathon sessions
+
+After the initial hackathon day, two subsequent in-person hackathon sessions are on the schedule. These sessions will run similarly to the initial hackathon day with members of teams expected to interact with each other and go through the steps/tasks they have set for themselves to complete while at the same time having the hackathon facilitator available in person to address further queries that will help the teams move forward in addressing the problem they have been assigned.
+
+During these sessions, the hackathon facilitator may raise additional issues relevant to a team's problem-at-hand. These issues may either be an additional step/task that the team may have missed and/or additional outputs that will appropriately resolve the problem assigned to the team.
+
+### Continuing hackathon
+
+The teams and their members are allowed and to a great extent expected (whenever possible) to continue working on their tasks/steps even outside of the three in-person hackathon days allocated. The teams discuss and agree how they will continue and use as much of the available methods for collaboration such as scheduling team sessions independently and/or working asynchronously via GitHub issues and pull request communications. Hackathon facilitator will continue to monitor sessions done through GitHub and will be available to comment, respond, and review as needed on any day.
+
+### Completing the hackathon
+
+The teams have up to the close of business (5 pm UK time) of the last session of the [Open Science and Reproducible Research in R](https://oxford-ihtm.io/open-reproducible-science){.external target="_blank"} lecture series to submit a final pull request on GitHub that contains all R code work that the team has written (both R script and R Markdown) for review.
+
+[^1]: Grant Witness currently is tracking terminations of grants from the National Institutes of Health (NIH), the National Science Foundation (NSF), the Environmental Protection Agency (EPA), and the Substance Abuse and Mental Health Services Administration (SAMHSA)
+[^2]: Pandemic PACT dataset can be downloaded at https://pandemicpact.org/export/pandemic-pact-grants.csv; Various Grant Witness datasets can be downloaded from their website at https://grant-witness.us/
+
+<br/>
+<br/>
