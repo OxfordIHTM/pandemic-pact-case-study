@@ -17,7 +17,7 @@ You are a fellow of the [Oxford iHealth](https://oxford-ihtm.io) initiative afte
 
 ## The challenge
 
-[Professor Proochista Ariana](https://proochista.org), director of the MSc in International Health and Tropical Medicine, has requested your batch of fellows to look into work done by [Grant Witness](https://grant-witness.us/), a project to track the termination of grants of scientific research agencies under the Trump administration in 2025[^1] and investigate how much of the reported grants in the Pandemic PACT project has been impacted by the cuts. Specifically, Professor Ariana has requested that your batch aims towards the following objectives:
+[Professor Proochista Ariana](https://www.ndm.ox.ac.uk/team/proochista-ariana), director of the MSc in International Health and Tropical Medicine, has requested your batch of fellows to look into work done by [Grant Witness](https://grant-witness.us/), a project to track the termination of grants of scientific research agencies under the Trump administration in 2025[^1] and investigate how much of the reported grants in the Pandemic PACT project has been impacted by the cuts. Specifically, Professor Ariana has requested that your batch aims towards the following objectives:
 
 ### Cross-cutting research objectives
 
@@ -31,15 +31,15 @@ You are a fellow of the [Oxford iHealth](https://oxford-ihtm.io) initiative afte
 
 The fellows have been grouped into seven (7) teams:
 
-**Team Name** | **Team Avatar** | **Team Members**
-:--- | :---: | :---
-Team Malala |  | 
-Team Timnit |  | 
-Team Wangair |  | 
-Team Ressa |  | 
-Team Papakura |  | 
-Team Zohran |  |
-Team Maryam |  |
+**Team Name** | **Team Avatar**                            | **Team Members**
+:---          | :---:                                      | :---
+Team Malala   | ![](images/malala.jpg){height="200px"}     | Khem, Isobel, Laureen
+Team Timnit   | ![](images/timnit.jpg){height="200px"}     | Takunda, Binti, Abeny
+Team Wangari  | ![](images/maathai.jpg){height="200px"}    | Rehan, Ambele, Sifiso
+Team Ressa    | ![](images/ressa.jpg){height="200px"}      | Vanessa, Treasure, Hadeel
+Team Papakura | ![](images/makereti.jpg){height="200px"}   | Ahmed, Salma, Delina
+Team Zohran   | ![](images/zohran.jpg){height="200px"}     | Nsoh, Fanta, Joyce
+Team Maryam   | ![](images/mirzakhani.jpg){height="200px"} | Inae, Rose, Keziah
 
 ### Initial hackathon day
 
