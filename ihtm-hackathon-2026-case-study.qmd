@@ -7,7 +7,7 @@ date-format: "DD MMMM YYYY"
 
 ## The case
 
-The [Pandemic PACT](https://www.pandemicpact.org/) monitors and analyses global funding and research evidence related to diseases with pandemic potential, as well as broader research preparedness efforts, and is equipped to pivot in response to outbreaks. It collects, curates, codes, and analyses data in alignment with WHO priority diseases and other selected illnesses, including pandemic influenza, mpox, and plague. Pandemic PACT aims to guide policy and decision-making for research funders, policymakers, researchers, multilateral agencies. The Pandemic PACT data is publicly available for download from its [website](https://www.pandemicpact.org/). 
+The [Pandemic PACT](https://www.pandemicpact.org/){.external target="_blank"} monitors and analyses global funding and research evidence related to diseases with pandemic potential, as well as broader research preparedness efforts, and is equipped to pivot in response to outbreaks. It collects, curates, codes, and analyses data in alignment with WHO priority diseases and other selected illnesses, including pandemic influenza, mpox, and plague. Pandemic PACT aims to guide policy and decision-making for research funders, policymakers, researchers, multilateral agencies. The Pandemic PACT data is publicly available for download from its [website](https://www.pandemicpact.org/){.external target="_blank"}. 
 
 For an overview on the **Pandemic Pact** project, read [here](https://www.pandemicpact.org/about/overview){.external target="_blank"}.
 
@@ -17,7 +17,7 @@ You are a fellow of the [Oxford iHealth](https://oxford-ihtm.io) initiative afte
 
 ## The challenge
 
-[Professor Proochista Ariana](https://www.ndm.ox.ac.uk/team/proochista-ariana), director of the MSc in International Health and Tropical Medicine, has requested your batch of fellows to look into work done by [Grant Witness](https://grant-witness.us/), a project to track the termination of grants of scientific research agencies under the Trump administration in 2025[^1] and investigate how much of the reported grants in the Pandemic PACT project has been impacted by the cuts. Specifically, Professor Ariana has requested that your batch aims towards the following objectives:
+[Professor Proochista Ariana](https://www.ndm.ox.ac.uk/team/proochista-ariana){.external target="_blank"}, director of the MSc in International Health and Tropical Medicine, has requested your batch of fellows to look into work done by [Grant Witness](https://grant-witness.us/){.external target="_blank"}, a project to track the termination of grants of scientific research agencies under the Trump administration in 2025[^1] and investigate how much of the reported grants in the Pandemic PACT project has been impacted by the cuts. Specifically, Professor Ariana has requested that your batch aims towards the following objectives:
 
 ### Cross-cutting research objectives
 
