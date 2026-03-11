@@ -40,18 +40,13 @@ jobs:
           renv::restore()
         shell: Rscript {0}
         
-      - name: Render slides
+      - name: Render document
         run: quarto render
-
-      # - name: Render slides to PDF
-      #   run: |
-      #     source("render_pdf.R")
-      #   shell: Rscript {0}
 
       - name: Deploy to Netlify
         uses: nwtgck/actions-netlify@v3.0
         with:
-          publish-dir: './_slides'
+          publish-dir: './docs'
           production-branch: main
           github-token: ${{ secrets.GITHUB_TOKEN }}
           deploy-message:
