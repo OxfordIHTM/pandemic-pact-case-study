@@ -1,4 +1,4 @@
-name: test slides render
+name: test document render
 
 on:
   pull_request:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  test-slides-render:
+  test-document-render:
     runs-on: ubuntu-latest
     container: rocker/tidyverse:4.5.2
     env:
